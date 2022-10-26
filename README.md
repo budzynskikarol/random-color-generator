@@ -2,4 +2,4 @@
 
 Project created in HTML, CSS, JavaScript
 
-![Preview](https://github.com/budzynskikarol/digitalclock/blob/main/digitalclock.png?raw=true)
+![Preview](https://github.com/budzynskikarol/random-color-generator/blob/main/random-color-generator.png?raw=true)
