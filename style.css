@@ -9,20 +9,14 @@ h1{
     letter-spacing: 1px;
 }
 
-h1 a{
-    text-decoration: none;
-    color: black;
+#refresh{
+    cursor: pointer;
 }
 
-h1 a:visited{
-    text-decoration: none;
-    color: black;
-}
-
-h1 a:hover{
-    text-decoration: none;
+#refresh:hover{
     color: blueviolet;
 }
+
 
 .container{
     display: flex;
